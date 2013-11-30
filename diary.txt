@@ -1,0 +1,49 @@
+Date : 18/10
+Start : 21
+Stop : 22:30
+Activity : reading
+Comments : created specification for the assignment. Read provided codes.
+----------------------------------------------------------------------
+Date : 23/10
+Start : 11:30
+Stop : 17:10
+Activity: coding
+Comments : implemented level 0.
+----------------------------------------------------------------------
+Date : 27/10
+Start : 12:00
+Stop : 16:30
+Activity : coding
+Comments : level 1 add new user and display basket implemented.
+---------------------------------------------------------------------
+Date : 28/10
+Start : 11:00
+Stop : 00:56
+Activity : coding
+Comments : level 1 started implementing checkout.
+---------------------------------------------------------------------
+Date : 29/10
+Start : 10:30
+Stop : 11:30
+Activity : coding
+Comments : implemented checkout.
+---------------------------------------------------------------------
+Date : 29/10
+Start : 12:00
+Stop : 12:30
+Activity : coding
+Comments : implemented view orders. but did not tested - error in view orders for empty order.
+---------------------------------------------------------------------
+Date : 31/10
+Start : 18:00
+Stop : 00:00
+Activity : coding
+Comments : Level 2 Add/details in Search results and Drop/details in Basket implemented
+---------------------------------------------------------------------
+Date : 02/11
+Start : 23:00
+Stop : 24:00
+Activity : coding-tiding
+Comments : fixed a bug and tidied up the assignment
+---------------------------------------------------------------------
+
